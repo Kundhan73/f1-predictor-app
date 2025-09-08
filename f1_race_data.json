@@ -1,0 +1,583 @@
+[
+  {
+    "season": "2020",
+    "round": "1",
+    "raceName": "Austrian Grand Prix",
+    "date": "2020-07-05",
+    "circuit": "Red Bull Ring",
+    "location": "Spielberg, Austria",
+    "winnerDriver": "Valtteri Bottas",
+    "winnerConstructor": "Mercedes"
+  },
+  {
+    "season": "2020",
+    "round": "2",
+    "raceName": "Styrian Grand Prix",
+    "date": "2020-07-12",
+    "circuit": "Red Bull Ring",
+    "location": "Spielberg, Austria",
+    "winnerDriver": "Lewis Hamilton",
+    "winnerConstructor": "Mercedes"
+  },
+  {
+    "season": "2020",
+    "round": "3",
+    "raceName": "Hungarian Grand Prix",
+    "date": "2020-07-19",
+    "circuit": "Hungaroring",
+    "location": "Mogyoród, Hungary",
+    "winnerDriver": "Lewis Hamilton",
+    "winnerConstructor": "Mercedes"
+  },
+  {
+    "season": "2020",
+    "round": "4",
+    "raceName": "British Grand Prix",
+    "date": "2020-08-02",
+    "circuit": "Silverstone Circuit",
+    "location": "Silverstone, United Kingdom",
+    "winnerDriver": "Lewis Hamilton",
+    "winnerConstructor": "Mercedes"
+  },
+  {
+    "season": "2020",
+    "round": "5",
+    "raceName": "70th Anniversary Grand Prix",
+    "date": "2020-08-09",
+    "circuit": "Silverstone Circuit",
+    "location": "Silverstone, United Kingdom",
+    "winnerDriver": "Max Verstappen",
+    "winnerConstructor": "Red Bull"
+  },
+  {
+    "season": "2020",
+    "round": "6",
+    "raceName": "Spanish Grand Prix",
+    "date": "2020-08-16",
+    "circuit": "Circuit de Barcelona-Catalunya",
+    "location": "Montmeló, Spain",
+    "winnerDriver": "Lewis Hamilton",
+    "winnerConstructor": "Mercedes"
+  },
+  {
+    "season": "2020",
+    "round": "7",
+    "raceName": "Belgian Grand Prix",
+    "date": "2020-08-30",
+    "circuit": "Circuit de Spa-Francorchamps",
+    "location": "Stavelot, Belgium",
+    "winnerDriver": "Lewis Hamilton",
+    "winnerConstructor": "Mercedes"
+  },
+  {
+    "season": "2020",
+    "round": "8",
+    "raceName": "Italian Grand Prix",
+    "date": "2020-09-06",
+    "circuit": "Autodromo Nazionale Monza",
+    "location": "Monza, Italy",
+    "winnerDriver": "Pierre Gasly",
+    "winnerConstructor": "AlphaTauri"
+  },
+  {
+    "season": "2020",
+    "round": "9",
+    "raceName": "Tuscan Grand Prix",
+    "date": "2020-09-13",
+    "circuit": "Circuito del Mugello",
+    "location": "Mugello, Italy",
+    "winnerDriver": "Lewis Hamilton",
+    "winnerConstructor": "Mercedes"
+  },
+  {
+    "season": "2020",
+    "round": "10",
+    "raceName": "Russian Grand Prix",
+    "date": "2020-09-27",
+    "circuit": "Sochi Autodrom",
+    "location": "Sochi, Russia",
+    "winnerDriver": "Valtteri Bottas",
+    "winnerConstructor": "Mercedes"
+  },
+  {
+    "season": "2020",
+    "round": "11",
+    "raceName": "Eifel Grand Prix",
+    "date": "2020-10-11",
+    "circuit": "Nürburgring",
+    "location": "Nürburg, Germany",
+    "winnerDriver": "Lewis Hamilton",
+    "winnerConstructor": "Mercedes"
+  },
+  {
+    "season": "2020",
+    "round": "12",
+    "raceName": "Portuguese Grand Prix",
+    "date": "2020-10-25",
+    "circuit": "Algarve International Circuit",
+    "location": "Portimão, Portugal",
+    "winnerDriver": "Lewis Hamilton",
+    "winnerConstructor": "Mercedes"
+  },
+  {
+    "season": "2020",
+    "round": "13",
+    "raceName": "Emilia Romagna Grand Prix",
+    "date": "2020-11-01",
+    "circuit": "Autodromo Enzo e Dino Ferrari",
+    "location": "Imola, Italy",
+    "winnerDriver": "Lewis Hamilton",
+    "winnerConstructor": "Mercedes"
+  },
+  {
+    "season": "2020",
+    "round": "14",
+    "raceName": "Turkish Grand Prix",
+    "date": "2020-11-15",
+    "circuit": "Istanbul Park",
+    "location": "Istanbul, Turkey",
+    "winnerDriver": "Lewis Hamilton",
+    "winnerConstructor": "Mercedes"
+  },
+  {
+    "season": "2020",
+    "round": "15",
+    "raceName": "Bahrain Grand Prix",
+    "date": "2020-11-29",
+    "circuit": "Bahrain International Circuit",
+    "location": "Sakhir, Bahrain",
+    "winnerDriver": "Lewis Hamilton",
+    "winnerConstructor": "Mercedes"
+  },
+  {
+    "season": "2020",
+    "round": "16",
+    "raceName": "Abu Dhabi Grand Prix",
+    "date": "2020-12-13",
+    "circuit": "Yas Marina Circuit",
+    "location": "Yas Island, Abu Dhabi",
+    "winnerDriver": "Max Verstappen",
+    "winnerConstructor": "Red Bull"
+  },
+  {
+    "season": "2021",
+    "round": "1",
+    "raceName": "Bahrain Grand Prix",
+    "date": "2021-03-28",
+    "circuit": "Bahrain International Circuit",
+    "location": "Sakhir, Bahrain",
+    "winnerDriver": "Lewis Hamilton",
+    "winnerConstructor": "Mercedes"
+  },
+  {
+    "season": "2021",
+    "round": "2",
+    "raceName": "Emilia Romagna Grand Prix",
+    "date": "2021-04-18",
+    "circuit": "Autodromo Enzo e Dino Ferrari",
+    "location": "Imola, Italy",
+    "winnerDriver": "Max Verstappen",
+    "winnerConstructor": "Red Bull"
+  },
+  {
+    "season": "2021",
+    "round": "3",
+    "raceName": "Portuguese Grand Prix",
+    "date": "2021-05-02",
+    "circuit": "Algarve International Circuit",
+    "location": "Portimão, Portugal",
+    "winnerDriver": "Lewis Hamilton",
+    "winnerConstructor": "Mercedes"
+  },
+  {
+    "season": "2021",
+    "round": "4",
+    "raceName": "Spanish Grand Prix",
+    "date": "2021-05-09",
+    "circuit": "Circuit de Barcelona-Catalunya",
+    "location": "Montmeló, Spain",
+    "winnerDriver": "Lewis Hamilton",
+    "winnerConstructor": "Mercedes"
+  },
+  {
+    "season": "2021",
+    "round": "5",
+    "raceName": "Monaco Grand Prix",
+    "date": "2021-05-23",
+    "circuit": "Circuit de Monaco",
+    "location": "Monte Carlo, Monaco",
+    "winnerDriver": "Max Verstappen",
+    "winnerConstructor": "Red Bull"
+  },
+  {
+    "season": "2021",
+    "round": "6",
+    "raceName": "Azerbaijan Grand Prix",
+    "date": "2021-06-06",
+    "circuit": "Baku City Circuit",
+    "location": "Baku, Azerbaijan",
+    "winnerDriver": "Sergio Pérez",
+    "winnerConstructor": "Red Bull"
+  },
+  {
+    "season": "2021",
+    "round": "7",
+    "raceName": "French Grand Prix",
+    "date": "2021-06-20",
+    "circuit": "Circuit Paul Ricard",
+    "location": "Le Castellet, France",
+    "winnerDriver": "Max Verstappen",
+    "winnerConstructor": "Red Bull"
+  },
+  {
+    "season": "2021",
+    "round": "8",
+    "raceName": "Styrian Grand Prix",
+    "date": "2021-06-27",
+    "circuit": "Red Bull Ring",
+    "location": "Spielberg, Austria",
+    "winnerDriver": "Max Verstappen",
+    "winnerConstructor": "Red Bull"
+  },
+  {
+    "season": "2021",
+    "round": "9",
+    "raceName": "Austrian Grand Prix",
+    "date": "2021-07-04",
+    "circuit": "Red Bull Ring",
+    "location": "Spielberg, Austria",
+    "winnerDriver": "Max Verstappen",
+    "winnerConstructor": "Red Bull"
+  },
+  {
+    "season": "2021",
+    "round": "10",
+    "raceName": "British Grand Prix",
+    "date": "2021-07-18",
+    "circuit": "Silverstone Circuit",
+    "location": "Silverstone, United Kingdom",
+    "winnerDriver": "Lewis Hamilton",
+    "winnerConstructor": "Mercedes"
+  },
+  {
+    "season": "2021",
+    "round": "11",
+    "raceName": "Hungarian Grand Prix",
+    "date": "2021-07-01",
+    "circuit": "Hungaroring",
+    "location": "Mogyoród, Hungary",
+    "winnerDriver": "Esteban Ocon",
+    "winnerConstructor": "Alpine"
+  },
+  {
+    "season": "2021",
+    "round": "12",
+    "raceName": "Belgian Grand Prix",
+    "date": "2021-08-29",
+    "circuit": "Circuit de Spa-Francorchamps",
+    "location": "Stavelot, Belgium",
+    "winnerDriver": "Max Verstappen",
+    "winnerConstructor": "Red Bull"
+  },
+  {
+    "season": "2021",
+    "round": "13",
+    "raceName": "Dutch Grand Prix",
+    "date": "2021-09-05",
+    "circuit": "Circuit Zandvoort",
+    "location": "Zandvoort, Netherlands",
+    "winnerDriver": "Max Verstappen",
+    "winnerConstructor": "Red Bull"
+  },
+  {
+    "season": "2021",
+    "round": "14",
+    "raceName": "Italian Grand Prix",
+    "date": "2021-09-12",
+    "circuit": "Autodromo Nazionale Monza",
+    "location": "Monza, Italy",
+    "winnerDriver": "Daniel Ricciardo",
+    "winnerConstructor": "McLaren"
+  },
+  {
+    "season": "2021",
+    "round": "15",
+    "raceName": "Russian Grand Prix",
+    "date": "2021-09-26",
+    "circuit": "Sochi Autodrom",
+    "location": "Sochi, Russia",
+    "winnerDriver": "Lewis Hamilton",
+    "winnerConstructor": "Mercedes"
+  },
+  {
+    "season": "2021",
+    "round": "16",
+    "raceName": "Turkish Grand Prix",
+    "date": "2021-10-10",
+    "circuit": "Istanbul Park",
+    "location": "Istanbul, Turkey",
+    "winnerDriver": "Valtteri Bottas",
+    "winnerConstructor": "Mercedes"
+  },
+  {
+    "season": "2021",
+    "round": "17",
+    "raceName": "United States Grand Prix",
+    "date": "2021-10-24",
+    "circuit": "Circuit of the Americas",
+    "location": "Austin, United States",
+    "winnerDriver": "Max Verstappen",
+    "winnerConstructor": "Red Bull"
+  },
+  {
+    "season": "2021",
+    "round": "18",
+    "raceName": "Mexican Grand Prix",
+    "date": "2021-11-07",
+    "circuit": "Autódromo Hermanos Rodríguez",
+    "location": "Mexico City, Mexico",
+    "winnerDriver": "Max Verstappen",
+    "winnerConstructor": "Red Bull"
+  },
+  {
+    "season": "2021",
+    "round": "19",
+    "raceName": "Brazilian Grand Prix",
+    "date": "2021-11-14",
+    "circuit": "Autódromo José Carlos Pace",
+    "location": "São Paulo, Brazil",
+    "winnerDriver": "Max Verstappen",
+    "winnerConstructor": "Red Bull"
+  },
+  {
+    "season": "2021",
+    "round": "20",
+    "raceName": "Qatar Grand Prix",
+    "date": "2021-11-21",
+    "circuit": "Losail International Circuit",
+    "location": "Losail, Qatar",
+    "winnerDriver": "Lewis Hamilton",
+    "winnerConstructor": "Mercedes"
+  },
+  {
+    "season": "2021",
+    "round": "21",
+    "raceName": "Saudi Arabian Grand Prix",
+    "date": "2021-12-05",
+    "circuit": "Jeddah Corniche Circuit",
+    "location": "Jeddah, Saudi Arabia",
+    "winnerDriver": "Lewis Hamilton",
+    "winnerConstructor": "Mercedes"
+  },
+  {
+    "season": "2021",
+    "round": "22",
+    "raceName": "Abu Dhabi Grand Prix",
+    "date": "2021-12-12",
+    "circuit": "Yas Marina Circuit",
+    "location": "Yas Island, Abu Dhabi",
+    "winnerDriver": "Max Verstappen",
+    "winnerConstructor": "Red Bull"
+  },
+  {
+    "season": "2022",
+    "round": "1",
+    "raceName": "Bahrain Grand Prix",
+    "date": "2022-03-20",
+    "circuit": "Bahrain International Circuit",
+    "location": "Sakhir, Bahrain",
+    "winnerDriver": "Charles Leclerc",
+    "winnerConstructor": "Ferrari"
+  },
+  {
+    "season": "2022",
+    "round": "3",
+    "raceName": "Australian Grand Prix",
+    "date": "2022-04-10",
+    "circuit": "Albert Park Circuit",
+    "location": "Melbourne, Australia",
+    "winnerDriver": "Charles Leclerc",
+    "winnerConstructor": "Ferrari"
+  },
+  {
+    "season": "2022",
+    "round": "5",
+    "raceName": "Spanish Grand Prix",
+    "date": "2022-05-22",
+    "circuit": "Circuit de Barcelona-Catalunya",
+    "location": "Montmeló, Spain",
+    "winnerDriver": "Charles Leclerc",
+    "winnerConstructor": "Ferrari"
+  },
+  {
+    "season": "2022",
+    "round": "6",
+    "raceName": "Monaco Grand Prix",
+    "date": "2022-05-29",
+    "circuit": "Circuit de Monaco",
+    "location": "Monte Carlo, Monaco",
+    "winnerDriver": "Sergio Pérez",
+    "winnerConstructor": "Red Bull"
+  },
+  {
+    "season": "2022",
+    "round": "7",
+    "raceName": "Azerbaijan Grand Prix",
+    "date": "2022-06-12",
+    "circuit": "Baku City Circuit",
+    "location": "Baku, Azerbaijan",
+    "winnerDriver": "Sergio Pérez",
+    "winnerConstructor": "Red Bull"
+  },
+  {
+    "season": "2022",
+    "round": "9",
+    "raceName": "Canadian Grand Prix",
+    "date": "2022-06-19",
+    "circuit": "Circuit Gilles Villeneuve",
+    "location": "Montreal, Canada",
+    "winnerDriver": "George Russell",
+    "winnerConstructor": "Mercedes"
+  },
+  {
+    "season": "2022",
+    "round": "10",
+    "raceName": "British Grand Prix",
+    "date": "2022-07-03",
+    "circuit": "Silverstone Circuit",
+    "location": "Silverstone, United Kingdom",
+    "winnerDriver": "Carlos Sainz",
+    "winnerConstructor": "Ferrari"
+  },
+  {
+    "season": "2022",
+    "round": "11",
+    "raceName": "Austrian Grand Prix",
+    "date": "2022-07-10",
+    "circuit": "Red Bull Ring",
+    "location": "Spielberg, Austria",
+    "winnerDriver": "Max Verstappen",
+    "winnerConstructor": "Red Bull"
+  },
+  {
+    "season": "2022",
+    "round": "12",
+    "raceName": "French Grand Prix",
+    "date": "2022-07-24",
+    "circuit": "Circuit Paul Ricard",
+    "location": "Le Castellet, France",
+    "winnerDriver": "Max Verstappen",
+    "winnerConstructor": "Red Bull"
+  },
+  {
+    "season": "2022",
+    "round": "13",
+    "raceName": "Hungarian Grand Prix",
+    "date": "2022-07-31",
+    "circuit": "Hungaroring",
+    "location": "Mogyoród, Hungary",
+    "winnerDriver": "Max Verstappen",
+    "winnerConstructor": "Red Bull"
+  },
+  {
+    "season": "2022",
+    "round": "14",
+    "raceName": "Belgian Grand Prix",
+    "date": "2022-08-28",
+    "circuit": "Circuit de Spa-Francorchamps",
+    "location": "Stavelot, Belgium",
+    "winnerDriver": "Max Verstappen",
+    "winnerConstructor": "Red Bull"
+  },
+  {
+    "season": "2022",
+    "round": "16",
+    "raceName": "Dutch Grand Prix",
+    "date": "2022-09-04",
+    "circuit": "Circuit Zandvoort",
+    "location": "Zandvoort, Netherlands",
+    "winnerDriver": "Max Verstappen",
+    "winnerConstructor": "Red Bull"
+  },
+  {
+    "season": "2022",
+    "round": "17",
+    "raceName": "Italian Grand Prix",
+    "date": "2022-09-11",
+    "circuit": "Autodromo Nazionale Monza",
+    "location": "Monza, Italy",
+    "winnerDriver": "Max Verstappen",
+    "winnerConstructor": "Red Bull"
+  },
+  {
+    "season": "2022",
+    "round": "18",
+    "raceName": "Singapore Grand Prix",
+    "date": "2022-10-02",
+    "circuit": "Marina Bay Street Circuit",
+    "location": "Marina Bay, Singapore",
+    "winnerDriver": "Max Verstappen",
+    "winnerConstructor": "Red Bull"
+  },
+  {
+    "season": "2022",
+    "round": "19",
+    "raceName": "Japanese Grand Prix",
+    "date": "2022-10-09",
+    "circuit": "Suzuka International Racing Course",
+    "location": "Suzuka, Japan",
+    "winnerDriver": "Max Verstappen",
+    "winnerConstructor": "Red Bull"
+  },
+  {
+    "season": "2022",
+    "round": "21",
+    "raceName": "United States Grand Prix",
+    "date": "2022-10-23",
+    "circuit": "Circuit of the Americas",
+    "location": "Austin, United States",
+    "winnerDriver": "Max Verstappen",
+    "winnerConstructor": "Red Bull"
+  },
+  {
+    "season": "2022",
+    "round": "22",
+    "raceName": "Mexico City Grand Prix",
+    "date": "2022-10-30",
+    "circuit": "Autódromo Hermanos Rodríguez",
+    "location": "Mexico City, Mexico",
+    "winnerDriver": "Max Verstappen",
+    "winnerConstructor": "Red Bull"
+  },
+  {
+    "season": "2022",
+    "round": "23",
+    "raceName": "São Paulo Grand Prix",
+    "date": "2022-11-13",
+    "circuit": "Autódromo José Carlos Pace",
+    "location": "São Paulo, Brazil",
+    "winnerDriver": "Logan Sargeant",
+    "winnerConstructor": "Williams"
+  },
+  {
+    "season": "2022",
+    "round": "20",
+    "raceName": "Las Vegas Grand Prix",
+    "date": "2022-11-18",
+    "circuit": "Las Vegas Strip Circuit",
+    "location": "Las Vegas, United States",
+    "winnerDriver": "Max Verstappen",
+    "winnerConstructor": "Red Bull"
+  },
+  {
+    "season": "2022",
+    "round": "24",
+    "raceName": "Abu Dhabi Grand Prix",
+    "date": "2022-11-20",
+    "circuit": "Yas Marina Circuit",
+    "location": "Yas Island, Abu Dhabi",
+    "winnerDriver": "Max Verstappen",
+    "winnerConstructor": "Red Bull"
+  }
+  
+]
